@@ -19,7 +19,7 @@ gem 'rabl'
 gem 'oj'
 
 # gem "alchemy", "~> 1.0.0"
-gem 'alchemy', :git => 'git://github.com/ui-alchemy/alchemy.git', :branch => 'master'
+gem 'alchemy', :git => 'git://github.com/ui-alchemy/legacy-alchemy.git', :branch => 'master'
 
 group :assets do
   gem 'therubyracer'
